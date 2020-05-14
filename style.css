@@ -75,7 +75,7 @@ main .frontend li, main .details li {
 main .details li {
   color: #7b8e8e;
   font-weight: 100;
-  padding-right: 30px;
+  padding-right: 20px;
 }
 main .frontend li {
   background-color: #eef6f6;
